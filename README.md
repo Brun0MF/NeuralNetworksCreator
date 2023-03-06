@@ -74,7 +74,7 @@ Two files will be generated in the project folder:
  + **Model** - Contains the trained Neural Network model.
  
  
-   ### Run the Neural Network
+ ### Run the Neural Network
 Let's run the neural network,to do this just go to the console and write the following command (inside the project folder):
 ```
 python NeuralNetworkCreator.py run [Sample] [Model] [File]
