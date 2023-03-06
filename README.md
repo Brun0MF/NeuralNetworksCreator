@@ -49,10 +49,11 @@
  
  Keep in mind that the more images a class has, the more accurate its recognition will be.
  
+ >__Warning__
+ >**Class and image nomenclatures must not contain spaces or characters (excluding '_' or '-').**
  
- **Class and image nomenclatures must not contain spaces or characters (excluding '_' or '-').**
- 
- **All images must be in '.jpg' format**
+ >__Warning__
+ >**All images must be in '.jpg' format**
  
  
   ### Create and Train Neural Network
@@ -99,4 +100,5 @@ python NeuralNetworkCreator.py run [Sample] [Model] [File]
     
  ## Extra
  
- ! - This repository contains some test datasets. They were extracted from Wikimedia Commons with the [@WMCDownloader](https://github.com/Brun0MF/WMCDownloader) Tool.
+ >__Note__
+ >This repository contains some test datasets. They were extracted from Wikimedia Commons with the [@WMCDownloader](https://github.com/Brun0MF/WMCDownloader) Tool.
