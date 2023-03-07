@@ -16,12 +16,8 @@ import os
 import numpy as np
 import cv2
 from keras.utils import np_utils
-from keras.models import Sequential
+from keras.models import Sequential,load_model
 from keras.layers import Dense, Dropout, Flatten, Conv2D, MaxPooling2D
-import sys
-import cv2
-import numpy as np
-from keras.models import load_model
 import sys
 
 
